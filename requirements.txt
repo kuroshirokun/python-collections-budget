@@ -1,4 +1,4 @@
-astroid==2.4.0
+astroid
 attrs==19.3.0
 cycler==0.10.0
 importlib-metadata==1.6.0
